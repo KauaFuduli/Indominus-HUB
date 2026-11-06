@@ -9,7 +9,22 @@
   "repo": "KauaFuduli/ProjetoERP",
   "repoAuto": false,
   "excluidoEm": "",
-  "budget": 0,
+  "budget": 100,
   "tasks": [],
-  "txns": []
+  "txns": [
+    {
+      "id": "hnwspizxko2",
+      "type": "receita",
+      "amount": 30,
+      "desc": "dominio",
+      "date": "2026-11-06"
+    },
+    {
+      "id": "hnwspptje83",
+      "type": "despesa",
+      "amount": 10,
+      "desc": "hjkh",
+      "date": "2026-11-06"
+    }
+  ]
 }
